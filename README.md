@@ -1,8 +1,7 @@
-# MTMA 2022 web page
+# MTMA 2023 web page
 
-Sources for the official web page of MT Marathon in Americas 2022.
-Based on the Ondrej's version from 2018.
-
+Sources for the official web page of MT Marathon in Americas 2023.
+Based on the Ondrej's version from 2018 and on the MTMA 2022 Website.
 
 ## Instructions
 
